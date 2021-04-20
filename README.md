@@ -1,4 +1,8 @@
 # Hangman
+
+![Hangman](https://user-images.githubusercontent.com/72161057/115472734-774e7280-a208-11eb-89da-34c48759fe36.gif)
+
+
 Simple Hangman Game using Javascript Html and some CSS
 
 Hangman is a game where user have to guess a word that has been selected randomly by the machine.
