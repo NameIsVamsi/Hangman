@@ -9,3 +9,5 @@ Then there is this variable called ‘numOfGuesses’ where it is unaffected whe
 And there is an associative array which displays the user friendly messages according to the situation I.e, if the user wins it displays user has won and if the user lost it displays user has lost.
 
 And when the game is over the restart button will reset all the variables to their initial values.
+
+![image](https://user-images.githubusercontent.com/72161057/115471270-b0391800-a205-11eb-86bc-d598cb1acf97.png)
