@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Hangman</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="css/main.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <h1>Let's Play</h1>
+        <form id="hangman">
+        <input type="text" maxlength="1" minlength="1" name="letter" id="letter" placeholder="Guess a letter" />
+        <input id="guess" name="guess" type="submit" value="Guess" />
+        <button id="restart" name="restart" type="button">Restart</button>
+        </form>
+        <ul id="letters"></ul>
+        <p id="man"></p>
+        <p id="output" class="output"></p>
+        <script src="js/hangman.js"></script>
+    </body>
+</html>
